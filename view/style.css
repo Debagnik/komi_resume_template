@@ -556,11 +556,11 @@ hr {
 }
 
 .opl a {
-    width: 73px;
-    height: 56px;
+    width: 80px;
+    height: 80px;
     text-indent: -9999px;
     display: block;
-    background: url('./Images/Badge.png') no-repeat;
+    background: url('./Images/Badge0.png') no-repeat;
 }
 
 @media (max-width: 1200px) {
